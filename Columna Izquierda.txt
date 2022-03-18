@@ -1,0 +1,48 @@
+<html>
+  <head>
+   <title>Columna izquierda</title>
+   </head>
+  </head>
+<body background="Fondo.jpg">
+  <br>
+  <p><font color="#ffffff">
+     Nombre:Leonardo Melchor Borges Pech <br>
+     COBAY Plantel Progreso <br>
+     TICS VI 2601 <br>
+  </p>
+<body>
+  <br>
+  <p><font color:"#FFFFFF" face"verdana">
+  Definicion de Videojuego <br>
+<body>
+  <video controls width="250"
+  <source src="Qué es un videojuego.mp4" type=video/mp4>
+</video>
+<body>
+  <br>
+  <p align="center"><font size="5" color:"#FFFFFF" face"verdana">
+  Datos interesantes <br>
+  </font></p>
+<body>
+ <p align="center"><font size="5" color:"#FFFFFF" face"verdana">
+<ul type="square">
+ <li> Las consolas de esta actual generacion son: XBOX Series,PS5 y Nintendo Switch.
+ <li> El juegos mas vendido de la historia lo ocupa actualmente Minecraft.
+ <li> La PS2 es la consola mas vendida con alrededor 155,0 millones de unidades.
+ </font></p>
+<body>
+  <br>
+  <p align="center"><font size="5" color:"#FFFFFF" face"verdana">
+  Los Videojuegos <br>
+  </font></p>
+  <br/>
+  <marquee direction="up" 
+   <p align="center"><font size="5" color:"#FFFFFF" face"verdana"> Un videojuego es una aplicación interactiva orientada al entretenimiento que, a través de ciertos mandos o controles, permite simular experiencias en la pantalla de un televisor, una computadora u otro dispositivo electrónico.
+
+      Los videojuegos se diferencian de otras formas de entretenimiento, en que deben ser interactivos; es decir, los usuarios deben involucrarse activamente con el contenido.
+
+      El concepto de videojuego se utiliza para referirse a cualquier juego digital interactivo, independientemente de su soporte físico. Pueden ser muy distintos entre sí, tanto en complejidad como en calidad gráfica y en temática.
+   </font></p>
+   </marquee>
+</html>
+  

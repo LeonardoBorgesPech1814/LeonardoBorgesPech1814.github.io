@@ -1,0 +1,103 @@
+<html> 
+<head>
+	<title>Menu despegable</title>
+	<style type="text/css"> 
+	* {
+		padding:0 px;
+		margin:0px;
+	} 
+	
+	#header {
+		margin:center;
+		width:500px;
+		font-family:Arial, Helvetica, sans-serif;
+	}
+	
+	ul, ol {
+		list-style:none;
+	}
+	
+	.nav {
+		width:1500px;
+		margin:0 auto;
+	
+	}
+	
+	.nav >li {
+		float:left;
+	}	
+	
+	.nav li a {
+		background-color:#0000FF;
+		color:#fff;
+		text-decoration:none;
+		padding:10px 15px;
+		display:block;
+		
+	}
+	
+	.nav li a:hover {
+		background-color:#434343
+	}
+	
+	.nav li ul {
+		display:none;
+		position:absolute;
+		min-width:50px;
+	}
+	
+	.nav li:hover > ul {
+		display:block;	
+	}
+	
+	.nav li ul li {
+		position:relative;
+	}
+	
+	.nav li ul li ul {
+		right:-250px;
+		top:0px;
+	}
+	</style>		
+</head>
+
+<body>
+
+<center>
+	
+	
+	<div id="header">
+		<ul class="nav">
+			<li><a href="">Inicio</a>
+				<ul>
+					<li><a haref="">TIC IV</a>
+						
+					</ul>
+					<li><a haref="">Software de diseño</a>
+						<ul>
+							<li><a haref="">Paginas Web >></a>
+								<ul>
+									<li><a href="">Introduccion al Diseño Web</a>
+									<li><a href="Intervinculo.html">HTML Y CCS</a>	
+										</ul>
+								<li><a haref="">Diseño Digital>></a>		
+								</ul>
+								<li><a href="">Acerca De</a>
+									<ul>
+										<li><a href="">Las consolas de esta actual generacion son: XBOX Series,PS5 y Nintendo Switch.</a></li>
+										<li><a href="">El juegos mas vendido de la historia lo ocupa actualmente Minecraft.</a></li>
+										<li><a href="">La PS2 es la consola mas vendida con alrededor 155,0 millones de unidades.</a></li>
+									</ul>
+									</li>
+									<li><a href="">Contacto</a>
+										<ul>
+											<li><a href="">leonardo.borges.pech180114@gmail.com</a>
+												<li><a href="">WhatsApp</a>
+												
+													
+												</ul>
+			  	
+			</ul>
+</center>		</div>
+</body>
+</htm>

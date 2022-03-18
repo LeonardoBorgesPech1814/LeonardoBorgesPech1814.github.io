@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Pagina Web</title>
+        
+    </head>
+    
+    <frameset cols="300,*">
+     <frame name="Columna Izquierda" src="Columna Izquierda.html">
+
+    <frameset rows="125,*175,*">
+     <frame name="Fila 1" src="Fila 1.html">
+     <frame name="Fila 2" src="Fila 2.html">
+     <frame name="Menu despegable" src="Menu despegable.html">
+
+      
+    
+     
+   
+</html>
+                    

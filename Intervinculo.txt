@@ -1,0 +1,11 @@
+<html>
+  <head>
+  <title>HTML Y CSS</title>
+  <body background="Fondo.jpg">
+  <h1>HTML Y CSS><font color="#ffffff">
+   <p align="center"><font size="5" color:"#FFFFFF" face"verdana">HTML es el lenguaje de marcado básico que describe el contenido y la estructura de las páginas web. 
+     Por otro lado, CSS es la extensión del HTML que modifica el diseño y visualización de las páginas web. 
+     El archivo HTML puede contener código CSS, mientras que las hojas de estilo CSS nunca pueden contener código
+      HTML.</p>
+ </body>
+</html>
